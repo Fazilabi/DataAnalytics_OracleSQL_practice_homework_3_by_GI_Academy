@@ -1,0 +1,1 @@
+# DataAnalytics_OracleSQL_practice_homework_3_by_GI_Academy
